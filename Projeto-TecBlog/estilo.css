@@ -1,0 +1,117 @@
+body{
+
+    background-color: aliceblue;
+}
+
+#inicio{
+
+    color: orange;
+    background-color: orange;
+    text-align: center;
+    padding: 10px;
+
+}
+
+
+h1{
+    font-size: 40px;
+    color: black;
+
+}
+
+#branco{
+    color: white;
+}
+
+#paginas a:hover {
+    background-color: white;
+    color: orange;
+    padding: 10px;
+}
+
+
+
+a{
+    text-decoration: none;
+}
+
+a:link,  a:visited{
+    color: white;
+    
+ }
+
+.conteudo {
+    float: left;
+    background-color: white;
+    width: 650px;
+    padding: 10px;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+.conteudo a , #lateral a{
+    color: orange;
+}
+
+.conteudo a:hover, #lateral a:hover{
+    text-decoration: underline;
+
+}
+
+#inicio a{
+    color: white;
+    padding: 10px;
+    
+ }
+
+h3{
+color: #565656;
+background-color: #ccc;
+padding: 10px;
+margin-bottom: 20px;
+
+}
+
+h2{
+    color: orange;
+}
+
+#lateral{
+    margin: 10px;
+    margin-right: 200px;
+    margin-top: 20px;
+    float: right;
+    background-color: white;
+    padding: 10px;
+    width: 300px;
+}
+
+#rodape{
+    clear: both;
+   
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+
+}
+
+#lista{
+    
+    margin: 10px;
+    margin-right: 200px;
+    margin-top: 20px;
+    float: right;
+    background-color: white;
+    padding: 10px;
+    width: 300px;
+}
+
+#lista a {
+    color: orange;
+
+}
+
+#lista a:hover{
+    background-color: orange;
+    color: white;
+}
