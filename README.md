@@ -2,4 +2,4 @@
 
 utilizando apenas HTML e CSS 
 
-[Projeto-TecBlog-site](urlhttps://vitordof.github.io/Projetos-HTML-e-CSS/Projeto-TecBlog/)
+[ Projeto-TecBlog](https://vitordof.github.io/Projetos-HTML-e-CSS/Projeto-TecBlog/)
