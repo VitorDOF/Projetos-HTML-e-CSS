@@ -1,0 +1,24 @@
+.marcador{
+    background: rebeccapurple;
+    border: 1px solid rosybrown;
+}
+
+.marcador-container{
+    background: red;
+    border: 1px solid royalblue;
+}
+
+
+#postagem{
+    background: #ffc107;
+    color: white;
+}
+
+.caixa{
+    padding: 60px 0;
+    border-bottom: 1px solid  #e5e5e5;
+}
+
+footer p a{
+    margin: 5px 15px;
+}
