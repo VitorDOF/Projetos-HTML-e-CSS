@@ -1,4 +1,4 @@
-# Projetos desenvolvidos no curso de Desenvolvimento Web Completo (HTML e CSS) Udemy
+# Projetos desenvolvidos no curso de Desenvolvimento Web Completo Udemy (HTML e CSS) 
 
 ## 🌐 Projetos Publicados
 
